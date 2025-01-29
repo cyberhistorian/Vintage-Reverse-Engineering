@@ -3,16 +3,15 @@
 # Contents
 1. [Reverse Engineering](#reverse-engineering)
 2. [Archives and Primary Sources](#archives-and-primary-sources)
-3. [Software: Digital Media Artefacts](#software-digital-media-artefacts)
-4. [Tools](#tools)
-  4.1 [Hexdump](#hexdump)
-  4.2 [Reverse Engineering and Debuggers](#reverse-engineering-and-debuggers)
-  4.3 [Emulation](#emulation)
-   4.3.1 [Atari 8-bit Series](#atari-8-bit-series)
-   4.3.2 [Commodore 64 (C64)](#commodore-64-c64)
-   4.3.3 [Apple II](#apple-ii)
-   4.3.4 [IBM PC (DOS-based systems)](#ibm-pc-dos-based-systems)
-   4.3.5 [Classic Macintosh (68k and PowerPC series)](#classic-macintosh-68k-and-powerpc-series)
+3. [Tools](#tools)
+   3.1 [Hexdump](#hexdump)
+   3.2 [Reverse Engineering and Debuggers](#reverse-engineering-and-debuggers)
+   3.3 [Emulation](#emulation)
+   3.3.1 [Atari 8-bit Series](#atari-8-bit-series)
+   3.3.2 [Commodore 64 (C64)](#commodore-64-c64)
+   3.3.3 [Apple II](#apple-ii)
+   3.3.4 [IBM PC (DOS-based systems)](#ibm-pc-dos-based-systems)
+   3.3.5 [Classic Macintosh (68k and PowerPC series)](#classic-macintosh-68k-and-powerpc-series)
 6. [Links](#links)
 7. [Internal System Documentations](#internal-system-documentations)
 8. [Book Recommendations](#book-recommendations)
@@ -33,8 +32,6 @@ In a historical framework, reverse engineering extends beyond mere technical cur
 - [Aminet](https://wiki.aminet.net/Main_Page)
 - 
 
-
-# Software: Digital Media Artefacts 
 
 # Tools
 
