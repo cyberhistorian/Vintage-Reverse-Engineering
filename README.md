@@ -38,7 +38,7 @@ These tools cater to various needs, from simple command-line utilities to more a
 
 ## Emulation
 
-###**Atari 8-bit Series**:
+### **Atari 8-bit Series**:
    - [**Altirra**](https://www.virtualdub.org/altirra.html): A highly accurate emulator for Atari 8-bit computers, supporting various models like the Atari 400, 800, and XL/XE series. It offers advanced debugging tools and extensive hardware emulation.
 
 ### **Commodore 64 (C64)**:
