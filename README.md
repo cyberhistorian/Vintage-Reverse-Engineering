@@ -1,20 +1,21 @@
 # Vintage-Reverse-Engineering: Unlocking Digital History
 
 # Contents
-1. [Reverse Engineering](#reverse-engineering)
-2. [Archives and Primary Sources](#archives-and-primary-sources)
-3. [Tools](#tools)
-   3.1 [Hexdump](#hexdump)
-   3.2 [Reverse Engineering and Debuggers](#reverse-engineering-and-debuggers)
-   3.3 [Emulation](#emulation)
-   3.3.1 [Atari 8-bit Series](#atari-8-bit-series)
-   3.3.2 [Commodore 64 (C64)](#commodore-64-c64)
-   3.3.3 [Apple II](#apple-ii)
-   3.3.4 [IBM PC (DOS-based systems)](#ibm-pc-dos-based-systems)
-   3.3.5 [Classic Macintosh (68k and PowerPC series)](#classic-macintosh-68k-and-powerpc-series)
-6. [Links](#links)
-7. [Internal System Documentations](#internal-system-documentations)
-8. [Book Recommendations](#book-recommendations)
+- [Reverse Engineering](#reverse-engineering)
+- [Archives and Primary Sources](#archives-and-primary-sources)
+- [Software: Digital Media Artefacts](#software-digital-media-artefacts)
+- [Tools](#tools)
+  - [Hexdump](#hexdump)
+  - [Reverse Engineering and Debuggers](#reverse-engineering-and-debuggers)
+  - [Emulation](#emulation)
+    - [Atari 8-bit Series](#atari-8-bit-series)
+    - [Commodore 64 (C64)](#commodore-64-c64)
+    - [Apple II](#apple-ii)
+    - [IBM PC (DOS-based systems)](#ibm-pc-dos-based-systems)
+    - [Classic Macintosh (68k and PowerPC series)](#classic-macintosh-68k-and-powerpc-series)
+- [Links](#links)
+- [Internal System Documentations](#internal-system-documentations)
+- [Book Recommendations](#book-recommendations)
 
 
 
