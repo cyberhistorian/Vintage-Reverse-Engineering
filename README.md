@@ -37,24 +37,30 @@ These tools cater to various needs, from simple command-line utilities to more a
 ## Reverse Engineering
 
 ## Emulation
-- **Atari 8-bit Series**:
+
+###**Atari 8-bit Series**:
    - [**Altirra**](https://www.virtualdub.org/altirra.html): A highly accurate emulator for Atari 8-bit computers, supporting various models like the Atari 400, 800, and XL/XE series. It offers advanced debugging tools and extensive hardware emulation.
 
-- **Commodore 64 (C64)**:
+### **Commodore 64 (C64)**:
    - [**VICE (Versatile Commodore Emulator)**](https://vice-emu.sourceforge.io/): A cross-platform emulator that emulates the C64, C128, VIC-20, and more. It provides a comprehensive emulation experience with support for various peripherals and accurate sound and graphics reproduction.
 
-- **Apple II**:
+### **Apple II**:
    - [**GSport**](https://github.com/david-schmidt/gsport): An emulator for the Apple IIgs, part of the Apple II series. It focuses on accurate emulation and is available for multiple platforms.
 
-- **IBM PC (DOS-based systems)**:
+### **IBM PC (DOS-based systems)**:
    - [**DOSBox**](https://www.dosbox.com/): A popular emulator that focuses on running DOS applications and games. It emulates an IBM PC compatible environment, complete with sound, graphics, and input devices, making it ideal for running legacy software.
 
-- **Classic Macintosh (68k and PowerPC series)**:
+### **Classic Macintosh (68k and PowerPC series)**:
    - [**Basilisk II**](https://basilisk.cebix.net/): An emulator that allows you to run classic Mac OS versions (up to 8.1) on modern systems. It emulates 68k Macintosh hardware, providing support for various peripherals and networking.
    - [**SheepShaver**](https://sheepshaver.cebix.net/): A PowerPC emulator enabling the use of Mac OS versions up to 9.0.4. It's suitable for running applications designed for PowerPC Macs on contemporary hardware.
 
 
-# Learning Videos
+# Internal System Documentations
+
+
+# Book recommendations
+
+
 
 
 
