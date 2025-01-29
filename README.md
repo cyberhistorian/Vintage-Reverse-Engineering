@@ -25,6 +25,7 @@ In a historical framework, reverse engineering extends beyond mere technical cur
 - **HexDump**: A Motif-based graphical hex-dump tool that allows for viewing and editing file contents. It includes features like searching for masked patterns and jumping to specific file positions. ([sourceforge.net](https://sourceforge.net/projects/hexdump/?utm_source=chatgpt.com))
 - **HxD**: A fast and efficient hex editor for Windows that can handle files of any size. HxD offers features like searching, replacing, exporting, checksums/digests, and more.
 - **ImHex**: A free, open-source, cross-platform hex editor designed for reverse engineers and programmers. ImHex offers advanced features such as a custom pattern language for parsing and highlighting file structures, a graphical node-based data processor, an integrated disassembler, and support for various data analyses. ([imhex.werwolv.net](https://imhex.werwolv.net/?utm_source=chatgpt.com))
+- [**Hex.Dance**](https://hex.dance/)
 
 These tools cater to various needs, from simple command-line utilities to more advanced graphical applications, providing flexibility in how you inspect and manipulate binary data. 
 
