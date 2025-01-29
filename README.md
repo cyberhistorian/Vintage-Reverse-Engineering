@@ -3,7 +3,6 @@
 # Contents
 - [Reverse Engineering](#reverse-engineering)
 - [Archives and Primary Sources](#archives-and-primary-sources)
-- [Software: Digital Media Artefacts](#software-digital-media-artefacts)
 - [Tools](#tools)
   - [Hexdump](#hexdump)
   - [Reverse Engineering and Debuggers](#reverse-engineering-and-debuggers)
